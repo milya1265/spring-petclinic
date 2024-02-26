@@ -2,6 +2,7 @@
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/spring-projects/spring-petclinic) [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=7517918)
 
+
 ## Understanding but not for me the Spring Petclinic application with a few diagrams
 
 [See the presentation here](https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application)
@@ -146,6 +147,8 @@ One of the best parts about working on the Spring Petclinic application is that 
 Here is a list of them:
 
 | Name | Issue or not.. |
+=======
+| MY NAME IS | Issue |
 |------|-------|
 | Spring JDBC: simplify usage of NamedParameterJdbcTemplate | [SPR-10256](https://jira.springsource.org/browse/SPR-10256) and [SPR-10257](https://jira.springsource.org/browse/SPR-10257) |
 | Bean Validation / Hibernate Validator: simplify Maven dependencies and backward compatibility |[HV-790](https://hibernate.atlassian.net/browse/HV-790) and [HV-792](https://hibernate.atlassian.net/browse/HV-792) |
